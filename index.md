@@ -1,6 +1,6 @@
 # 通用计算 UGC
 
-{{indexmenu_n>6}}
+
 
 通用计算UGC（UCloud General Compute）是一种适用于大规模并行计算的分布式云服务。
 
@@ -8,4 +8,4 @@
 
 **目录** 
 
-{{indexmenu>:compute:ugc#1 | nsort dsort msort}}
+
