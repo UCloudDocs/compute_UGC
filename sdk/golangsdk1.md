@@ -13,12 +13,12 @@ SDK来完成一个任务，任务目标是统计文本inputfile1内所有的所�
 
     $ git clone https://github.com/ucloud/ugc-sdk.git
 
-２.下载Ufile存取文件相关工具，本例子下载linux工具，其它系统参考https://docs.ucloud.cn/storage\_cdn/ufile/tools
+２.下载Ufile存取文件相关工具，本例子下载linux工具，其它系统参考https://docs.ucloud.cn/storage_cdn/ufile/tools
 
     $ wget　http://tools.ufile.ucloud.com.cn/bucketmgr-linux64.tar.gz
     $ wget　http://tools.ufile.ucloud.com.cn/filemgr-linux64.tar.gz
 
-3.配置Ufile工具，详细参考https://docs.ucloud.cn/storage\_cdn/ufile/tools
+3.配置Ufile工具，详细参考https://docs.ucloud.cn/storage_cdn/ufile/tools
 
 ## 二、使用SDK创建镜像仓库
 
@@ -113,7 +113,7 @@ Post请求Body中的数据会提交到容器的Stdin），输出数据写入容�
 ## 四、使用SDK提交任务
 
 1.从Ufile下载文件：使用Ufile工具（也可使用Ufile SDK下载文件，Ufile
-SDK使用参考https://docs.ucloud.cn/storage\_cdn/ufile/tools）下载待处理文件到本地（假设用户已上传待处理文件到Ufile）
+SDK使用参考https://docs.ucloud.cn/storage_cdn/ufile/tools）下载待处理文件到本地（假设用户已上传待处理文件到Ufile）
 
     $ ./filemgr-linux64 --action download  --bucket testbucket --key inputfile1 --file inputfile1
 
@@ -220,6 +220,6 @@ SDK使用参考https://docs.ucloud.cn/storage\_cdn/ufile/tools）下载待处理
     s: 793, 0.81%
 
 4.上传结果文件到Ufile，使用Ufile工具（也可使用Ufile SDK上传文件，Ufile
-SDK使用参考https://docs.ucloud.cn/storage\_cdn/ufile/tools）上传处理好文件到Ufile。
+SDK使用参考https://docs.ucloud.cn/storage_cdn/ufile/tools）上传处理好文件到Ufile。
 
     $ ./filemgr-linux64 --action put --bucket testbucket --key outputfile1 --file outputfile1
