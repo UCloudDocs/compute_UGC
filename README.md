@@ -1,6 +1,6 @@
-<div class="sidebar_title icon__ugc"> 通用计算 UGC</div>
+# 概览
 
-* [概览](/ugc/README)
+
 * 产品简介
     * [什么是通用计算](/ugc/intro/whatugcis)
     * [concept](/ugc/intro/concept)
