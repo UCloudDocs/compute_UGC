@@ -3,7 +3,7 @@
 * [概览](/ugc/README)
 * 产品简介
     * [什么是通用计算](/ugc/intro/whatugcis)
-    * [concept](/ugc/intro/concept)
+    * [核心概念](/ugc/intro/concept)
     * [产品功能](/ugc/intro/feature)
 * 操作指南
     * [镜像管理](/ugc/guide/bucket)
