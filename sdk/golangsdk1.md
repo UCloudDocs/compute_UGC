@@ -13,12 +13,12 @@ SDK来完成一个任务，任务目标是统计文本inputfile1内所有的所�
 
     $ git clone https://github.com/ucloud/ugc-sdk.git
 
-２.下载Ufile存取文件相关工具，本例子下载linux工具，其它系统参考https://docs.ucloud.cn/ufile/tools
+２.下载Ufile存取文件相关工具，本例子下载linux工具，其它系统参考https://docs.ucloud.cn/ufile/tools/tools_file
 
     $ wget　http://tools.ufile.ucloud.com.cn/bucketmgr-linux64.tar.gz
     $ wget　http://tools.ufile.ucloud.com.cn/filemgr-linux64.tar.gz
 
-3.配置Ufile工具，详细参考https://docs.ucloud.cn/ufile/tools
+3.配置Ufile工具，详细参考https://docs.ucloud.cn/ufile/tools/tools_file
 
 ## 二、使用SDK创建镜像仓库
 
