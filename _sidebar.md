@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__ugc"> 通用计算 UGC</div>
 
 * [概览](/ugc/README)
 * 产品简介
