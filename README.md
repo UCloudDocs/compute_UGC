@@ -1,7 +1,7 @@
 # 概览
 
 * 产品简介
-    * [什么是通用计算。](/ugc/intro/whatugcis)
+    * [什么是通用计算](/ugc/intro/whatugcis)
     * [concept](/ugc/intro/concept)
     * [产品功能](/ugc/intro/feature)
 * 操作指南
